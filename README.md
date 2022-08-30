@@ -1,6 +1,10 @@
 # GraphQL
 
+
+![image](https://user-images.githubusercontent.com/63354527/187355694-b07ba50c-8b84-452d-b2f0-68d3fe052189.png)
+
 소프트웨어 마에스트로 컨퍼런스 발표(22.8.31)
+
 
 ## Reference
 
