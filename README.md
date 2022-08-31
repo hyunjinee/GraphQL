@@ -5,8 +5,12 @@
 
 소프트웨어 마에스트로 컨퍼런스 발표(22.8.31)
 
+![IMG_9356](https://user-images.githubusercontent.com/63354527/187658331-8c8fee2d-994b-4edf-9983-ecd4d35f40f9.jpeg)
+
+
 
 ## Reference
+
 
 - [How to GraphQL](https://www.howtographql.com/)
 - GraphQL in Action. Samer Buna
