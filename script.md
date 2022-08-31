@@ -240,7 +240,7 @@ GraphQL에서는 각 컴포넌트에 대응하는 데이터를 `fragment`로 정
 
 ## 마치며
 
-![](https://velog.velcdn.com/images/hyunjine/post/9db2138b-9178-47d5-9bec-5c1b71bf06db/image.png)
+![](https://velog.velcdn.com/images/hyunjine/post/5367e6f7-3e23-41a7-9043-4bbff33f2164/image.png)
 
 GraphQL은 클라이언트에서 서버에 질의를 하기 위한 언어입니다.
 GraphQL은 SQL의 경쟁 상대가 아니며, SQL 처럼 데이터베이스에 쿼리를 하기 위해 사용해서는 안됩니다.
